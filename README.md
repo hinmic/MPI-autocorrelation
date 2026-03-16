@@ -64,3 +64,12 @@ Non-blocking Communication: Implement MPI_Isend and MPI_Irecv to overlap computa
 Hybrid Parallelism: Integrate CUDA kernels within each MPI node to create a multi-GPU distributed simulator.
 
 Real-time Streaming: Adapt the architecture to process live telemetry data from ion-trap sensors.
+
+#### Quantum Relevance
+In ion-trap quantum computing, autocorrelation might be helpful for:
+
+Noise Analysis: Analysing $`1/f`$ noise and decoherence patterns in qubits.
+
+Signal Processing: Processing high-frequency microwave control signals.
+
+System Scaling: Developing communication protocols for modular multi-chip architectures.
