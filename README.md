@@ -51,6 +51,7 @@ An MPI implementation (e.g. OpenMPI).
 
 #### Compilation
 Build the project using mpic++:
+
 mpic++ -o autocorrelation_mpi main.cpp
 
 #### Execution
